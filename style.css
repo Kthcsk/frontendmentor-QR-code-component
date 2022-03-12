@@ -45,6 +45,7 @@ body {
 .card .bottom h1 {
   font-size: 1.4rem;
   color: var(--darkblue);
+  margin-bottom: 0;
 }
 
 .card .bottom p {
